@@ -14,3 +14,19 @@
 }
 
 /* GENERAL */
+
+.box{
+    width: 100%;
+    padding: 20px;
+    background-color: blue;
+    border: 1px solid white ;
+    color: white;
+}
+
+.box-of-box{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(0, 207, 0);
+    border: 1px solid white ;
+    color: white;
+}
